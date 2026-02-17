@@ -30,5 +30,5 @@ Para asegurar la integridad del análisis, se aplicó un bloque de limpieza que 
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone <https://github.com/alxscrvnts/TripleTen---Sprint-7>
    cd "TripleTen - Sprint 7"
