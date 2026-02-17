@@ -2,6 +2,8 @@
 
 Este proyecto consiste en una aplicación web interactiva desarrollada con **Streamlit** y **Plotly**, diseñada para explorar y visualizar datos de anuncios de venta de vehículos en los Estados Unidos. La Fase 1 se enfoca en la limpieza de datos, análisis exploratorio (EDA) y la creación de un dashboard funcional.
 
+Consultar link de Render en: https://tripleten-sprint-7-tns5.onrender.com/ y activar Precio vs. Odómetro para ver gráfico de dispersión.
+
 ---
 
 ## 🛠️ Funcionalidades del dashboard
