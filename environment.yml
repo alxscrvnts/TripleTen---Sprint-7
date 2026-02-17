@@ -1,0 +1,6 @@
+name: vehicles_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+prefix: C:\Users\alxsc\anaconda3\envs\vehicles_env
